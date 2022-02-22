@@ -1,16 +1,40 @@
-### Hi there 👋
+** **
 
-<!--
-**LIAMDev-alt/LIAMDev-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👨‍🦰Welcome to my profile!
+Hello,  my name is Liam, I'm 15 years old and I from Israel!
+My main goal is to finish my **"Full Stack Development"** course and get this title.
+But right now I'm "have" only the title **"Frontend Developer"**
+# 📑My Knowledge On Develop:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - **HTML**
+ - **CSS**
+ - **~~JAVASCRIPT~~**
+ - ~~**NODE.JS (DISCORD.JS)**~~
+ - ***CFX.RE DEVELOPMENT (LUA AND FIVEM DEVELOPMENT)***
+
+# My Contact Social Ways:
+**📉- My Discord Server:**
+** **
+**🌐- My Own Website:**
+** **
+**🦉- My Discord Username:**
+** **
+**📪- My Contact E-Mail:**
+
+
+# My Works and Projects:
+**📂My Own Website:**
+# 
+**🧰My Discord Custom Bot:**
+#
+**🔐My _"QBFramework"_ Custom Activate Officers Script:**
+
+
+# My Future Projects:
+
+ 1. **📄Create Full Website Creator To Public**
+ 2. **📊Create Full Scripting Pack To Role Play (FiveMRP) For Free**
+ 3. **🛒Create My Own Full Webstore**
+# My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=liamdev-alt&theme=react&show_icons=true"/>

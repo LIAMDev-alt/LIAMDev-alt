@@ -28,7 +28,7 @@
 
 # My Goals:
 
- - [ ] **Creating "RenewedVers" official web framework**<br>
+ - [ ] **Creating "RenewedVeres" official web framework**<br>
  - [ ] **Have a gaming community** <br>
  - [ ] **Become C++ and #C Programmer**<br>
  - [ ] **Create design system and web creator**<br>

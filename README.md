@@ -16,7 +16,7 @@
 # My Contact Social Ways:
 **📉- My Discord Server:**<br>
 **🌐- My Own Website:**<br>
-**🦉- My Discord Username:**<br>
+**🦉- My Discord Username: FrontSide#7883**<br>
 **📪- My Contact E-Mail:**<br>
 
 

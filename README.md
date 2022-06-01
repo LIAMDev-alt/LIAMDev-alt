@@ -28,8 +28,8 @@
 
 # My Goals:
 
- - [ ] **Creating "RenewedVeres" official web framework**<br>
- - [ ] **Have a gaming community** <br>
+ - [x] **Creating "RenewedVeres" official web framework**<br>
+ - [x] **Have a gaming community** <br>
  - [ ] **Become C++ and #C Programmer**<br>
  - [ ] **Create design system and web creator**<br>
  - [ ] **Create my own webstore with full service**<br>
